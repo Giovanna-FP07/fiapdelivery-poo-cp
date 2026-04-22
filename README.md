@@ -110,6 +110,8 @@ O diagrama foi desenvolvido no Astah e representa:
 - herança entre `Veiculo`, `Caminhao` e `Moto`
 - associação entre `Rota`, `Pacote` e `Veiculo`
 
+![Diagrama UML](./FiapDeliveryDiagrama.png)
+
 ---
 
 ## Tecnologias Utilizadas
